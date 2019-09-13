@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AvailableHapticFeedback",
+        "repositoryURL": "https://github.com/yonat/AvailableHapticFeedback",
+        "state": {
+          "branch": null,
+          "revision": "f9ae6d54af1fb06fff0ddb16246091c6de22f989",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "SweeterSwift",
+        "repositoryURL": "https://github.com/yonat/SweeterSwift",
+        "state": {
+          "branch": "master",
+          "revision": "b1cc084fde025a9aae50d9664dea1ada13a0d277",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
